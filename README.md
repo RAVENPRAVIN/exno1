@@ -40,19 +40,17 @@ df.head()
 df.info()
 df.isnull().sum()
 
-OUTPUT
 READ_CSV
-output
+
 ![read](https://github.com/RAVENPRAVIN/exno1/assets/146820534/34df5aec-c7bb-4244-b481-e3935f805dd1)
 
 
 HEAD
-output
 ![head](https://github.com/RAVENPRAVIN/exno1/assets/146820534/521b3b1c-6fd2-4f90-b35c-3e4da9debae9)
 
 
 TAIL
-output
+
 
 ![tail](https://github.com/RAVENPRAVIN/exno1/assets/146820534/d46fff3a-7d85-4ed3-b390-480bdb7453ef)
 
@@ -64,35 +62,35 @@ output
 
 
 ISNULL
-output
+
 ![isnull](https://github.com/RAVENPRAVIN/exno1/assets/146820534/e3ff7b0a-33b4-4906-a814-74de89b05baf)
 
 
 
 ISNULL.SUM
-output
+
 ![sum](https://github.com/RAVENPRAVIN/exno1/assets/146820534/5227d7c3-144f-4862-9a9f-aacb5b31ae3b)
 
 
 MODE
-output
+
 ![mode](https://github.com/RAVENPRAVIN/exno1/assets/146820534/4fe6b52a-523b-45ac-9c68-83cb92ca30eb)
 
 
 
 MEAN
-output
+
 ![mean](https://github.com/RAVENPRAVIN/exno1/assets/146820534/8b66312c-c6fa-42ba-a310-1ee7ce7829de)
 
 
 
 MEDIAN
-output
+
 
 ![median](https://github.com/RAVENPRAVIN/exno1/assets/146820534/e30847a1-9b8a-4dd5-a33b-8c8ca1e32d99)
 
 AFTER CLEANING
-output 
+
 ![after info](https://github.com/RAVENPRAVIN/exno1/assets/146820534/c7fdbd27-8e24-44a4-bd72-1c0d30aac08b)
 
 
