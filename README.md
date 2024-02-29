@@ -89,12 +89,10 @@ MEDIAN
 
 ![median](https://github.com/RAVENPRAVIN/exno1/assets/146820534/e30847a1-9b8a-4dd5-a33b-8c8ca1e32d99)
 
+
+
+
 AFTER CLEANING
-
-![after info](https://github.com/RAVENPRAVIN/exno1/assets/146820534/c7fdbd27-8e24-44a4-bd72-1c0d30aac08b)
-
-
-![sum](https://github.com/RAVENPRAVIN/exno1/assets/146820534/4deb301e-3d04-4668-a036-2a1e96a98753)
 
 
 Result
